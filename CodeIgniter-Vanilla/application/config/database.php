@@ -48,11 +48,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = 'root';
-// $db['default']['username'] = 'nologin_demo';
-// $db['default']['password'] = '}*@69>cMI/K@h=7h_#AA(M+Hl`sr^Sw?';
-$db['default']['database'] = 'login_demo';
+$db['default']['username'] = '';
+$db['default']['password'] = '';
+$db['default']['database'] = 'nologinbutton_demo';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
