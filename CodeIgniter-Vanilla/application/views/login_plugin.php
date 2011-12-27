@@ -9,8 +9,6 @@
 	
 	<link rel='stylesheet' type='text/css' media='all' href='<?=base_url()?>resources/css/common.css' />
 	
-
-
 </head>
 <body>
 
